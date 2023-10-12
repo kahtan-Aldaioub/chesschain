@@ -35,17 +35,17 @@ const About = () => {
                 <span className="block mb-2 text-lg font-semibold text-primary">
                  
                 </span>
-                <h2 className="mb-8 text-3xl font-bold text-dark sm:text-4xl p-3">
+                <h2 className="mb-8 text-3xl font-bold text-dark sm:text-4xl p-3 text-slate-200">
                   Welcome to Chess Chain!
                 </h2>
-                <p className="mb-8 text-base text-body-color p-3">
+                <p className="mb-8 text-base text-body-color p-3 text-slate-200">
                   my name is kahtan aldaioub and i am a web developer and avid chess fan.
                   with a rating about 2000 on Lichess , i have a passion for playing chess online .
                   at chess Chain ,we provide valuable content to help players learn and improve thier chess skills
                   effictively . our website is designed to be a comprehensive resourse for all levels of players ,
                   from beginners to advanced . we believe that anyone can learn and enjoy the game of chess.
                 </p>
-                <h2 className="mb-8 text-3xl font-bold text-dark sm:text-4xl p-3">
+                <h2 className="mb-8 text-3xl font-bold text-dark sm:text-4xl p-3 text-slate-200">
                   thank you for visiting Chess Chain and We hope you find our content healpful.
                 </h2>
               </div>
